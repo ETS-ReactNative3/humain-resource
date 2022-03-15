@@ -49,7 +49,7 @@
     "install": "^0.13.0",
     "jest": "20.0.4",
     "lodash": "^4.17.11",
-    "lodash-es": "4.17.10",
+    "lodash-es": "4.17.21",
     "lru-fast": "^0.2.2",
     "moment": "^2.22.2",
     "moment-business-days": "^1.1.3",
